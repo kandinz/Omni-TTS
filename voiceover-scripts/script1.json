@@ -1,26 +1,42 @@
 [
   {
-    "filename": "01_hook.wav",
-    "text": "Mỗi ngày bạn mất 3-4 tiếng cho những việc lặp đi lặp lại? Đã đến lúc để AI Agent làm thay bạn!"
+    "filename": "scene_01_intro.wav",
+    "text": "4 thứ cơ bản để tạo ra một AI Agent đúng nghĩa. Vì nếu thiếu những thứ này, rất nhiều con Agent thực ra chỉ giống một chatbot được đặt tên cho hay hơn thôi. 4 thứ đó là MCP, Skill, Hook và Schedule."
   },
   {
-    "filename": "02_concept.wav",
-    "text": "Khác với Chatbot chỉ biết trả lời, AI Agent là một trợ lý thông minh có khả năng tự lập kế hoạch và chủ động thực thi công việc từ A đến Z."
+    "filename": "scene_02_mcp_analogy.wav",
+    "text": "Đầu tiên là MCP. Bạn cứ hình dung AI Agent giống như một trợ lý rất thông minh nhưng đang ngồi trong một căn phòng kín. Nếu bạn không đưa cho nó điện thoại, máy tính, tài khoản, công cụ... thì nó chỉ có thể ngồi đó trả lời câu hỏi, nó không thể thật sự làm việc với thế giới bên ngoài."
   },
   {
-    "filename": "03_pdf.wav",
-    "text": "Ví dụ 1: Bạn có 50 hóa đơn PDF? Agent tự đọc, bóc tách dữ liệu và điền chuẩn xác vào file Excel chỉ trong vài giây."
+    "filename": "scene_03_mcp_function.wav",
+    "text": "MCP sinh ra để giải quyết chuyện đó. Nó giúp AI Agent kết nối với các công cụ bên ngoài như email, Google Drive, Google Sheets, Facebook, Fanpage, YouTube, tài liệu hệ thống nội bộ hoặc những nền tảng mà bạn đang dùng trong công việc. Nó đơn giản, MCP giống như cánh tay nối dài để Agent không chỉ nói mà còn có thể làm."
   },
   {
-    "filename": "04_email.wav",
-    "text": "Ví dụ 2: Bạn cần báo cáo tuần? Agent tự động tổng hợp số liệu CRM và gửi email báo cáo đúng 5 giờ chiều."
+    "filename": "scene_04_skill_concept.wav",
+    "text": "Thứ hai là Skills. Skill là bộ kỹ năng bạn dạy cho Agent. Ví dụ bạn muốn AI Agent tư vấn khách hàng thì bạn phải nói rõ quy trình tư vấn của bạn là gì: gặp khách thì hỏi gì trước, phân loại nhu cầu như thế nào, khi nào giới thiệu sản phẩm, khi nào xử lý phản đối, khi nào chốt deal, khi nào chuyển cho người thật..."
   },
   {
-    "filename": "05_research.wav",
-    "text": "Ví dụ 3: Cần đọc tài liệu 100 trang? Agent tóm tắt thành 3 ý chính trong vài giây."
+    "filename": "scene_05_skill_value.wav",
+    "text": "Tất cả những bước đó nếu bạn viết ra thành một quy trình rõ ràng thì đó chính là Skill. Nó giống như bạn tuyển một nhân sự mới, nhưng thay vì phải training từng ngày, bạn đóng gói lại cách làm việc của mình thành một bộ hướng dẫn để Agent có thể làm theo. Skill càng rõ, càng chi tiết, kết quả AI trả ra càng tốt."
   },
   {
-    "filename": "06_outro.wav",
-    "text": "Tập trung vào giá trị thật, để AI Agent lo phần còn lại! Trải nghiệm AI Agent ngay hôm nay!"
+    "filename": "scene_06_hook_rules.wav",
+    "text": "Thứ ba là Hook. Hook là những quy tắc chạy ngầm. Tức là có những việc Agent phải tự kiểm tra mà không cần bạn nhắc lại mỗi lần. Ví dụ trước khi gửi email cho khách, nó phải kiểm tra xem nội dung có đúng giọng thương hiệu không, có lộ thông tin nội bộ không, có nói quá cam kết không, có vi phạm quy tắc nào bạn đã đặt ra không... Hoặc trong hệ thống kỹ thuật, trước khi chạy một hành động nào đó, nó phải kiểm tra xem hành động này có nguy hiểm cho hệ thống hay không. Hook giúp Agent làm việc an toàn hơn và đúng nguyên tắc hơn."
+  },
+  {
+    "filename": "scene_07_schedule_automation.wav",
+    "text": "Cuối cùng là tác vụ định kỳ hay Schedule. Tác vụ định kỳ thì dễ hiểu hơn, nó giống như báo thức cho Agent. Ví dụ 6 giờ sáng mỗi ngày, Agent tự thức dậy: viết bài, đăng bài viết, tìm dữ liệu mới, quét đơn hàng hôm qua, xem có bao nhiêu khách mới, bao nhiêu tin nhắn chưa trả lời, doanh thu hôm qua thế nào... rồi gửi báo cáo về cho bạn. Bạn không cần nhắc, không cần mở máy kiểm tra."
+  },
+  {
+    "filename": "scene_08_schedule_benefit.wav",
+    "text": "Nếu đã cài đúng lịch, đúng Skill, đúng dữ liệu, Agent có thể tự chạy những tác vụ lặp lại mỗi ngày. Đây là phần rất hữu ích với người kinh doanh, chủ SME, doanh nghiệp một người hoặc KOL, vì có rất nhiều việc không khó nhưng lặp lại liên tục và rất dễ quên."
+  },
+  {
+    "filename": "scene_09_summary.wav",
+    "text": "Tóm lại, để một AI Agent không chỉ là chatbot, nó cần 4 thứ: MCP để kết nối với công cụ. Skill để biết cách làm việc. Hook để tự kiểm tra và tuân thủ quy tắc. Schedule để tự chạy đúng thời điểm."
+  },
+  {
+    "filename": "scene_10_outro.wav",
+    "text": "Với tôi, AI Agent không mạnh vì cái tên \"Agent\". Nó mạnh khi được đặt trong đúng hệ thống: có công cụ, có kỹ năng, có quy tắc, có lịch vận hành. Hãy follow tôi, tôi sẽ thử cho bạn thấy cách ghép 4 thứ này lại để tạo ra một Agent cơ bản có thể dùng được trong công việc trong chuỗi series \"tăng năng xuất công việc AI Agent\""
   }
 ]
